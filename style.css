@@ -1,0 +1,28 @@
+.main-block {
+    width: 560px;
+    height: 560px;
+    margin: 30px auto;
+    border: 1px solid black;
+}
+.main-block-num {
+    position: absolute;
+    bottom: 60px;
+    left: 350px; 
+    
+}
+.main-block-buk {
+    position: absolute;
+    bottom: 10px;
+    left: 400px;
+}
+.block {
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+.black {
+    background: #000;
+}
+.white {
+    background: #fff;
+}
